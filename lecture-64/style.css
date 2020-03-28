@@ -1,0 +1,20 @@
+.btn-primary {
+  background-color: firebrick;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: firebrick;
+}
+
+.container {
+  transition: all 0.2s;
+}
+
+.col {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  border: solid 1px black;
+}
